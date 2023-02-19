@@ -15,7 +15,7 @@ function submit(){
         var user = userCredential.user;
         console.log(user)
 
-        window.location.href = "../"
+       
         // ...
     })
     .catch((error) => {
